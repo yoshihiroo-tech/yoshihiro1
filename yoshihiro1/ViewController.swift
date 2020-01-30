@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         
         print("変更しました！！")
+         print("変更しました！！")
         // Do any additional setup after loading the view.
     }
 
